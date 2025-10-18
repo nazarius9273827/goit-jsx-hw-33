@@ -1,0 +1,9 @@
+.wrap {
+  margin-bottom: 12px;
+}
+.input {
+  display: block;
+  padding: 8px;
+  margin-top: 4px;
+  width: 100%;
+}
